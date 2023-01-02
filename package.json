@@ -1,0 +1,8 @@
+{
+  "name": "cat-workspace",
+  "packageManager": "yarn@3.3.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
